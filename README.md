@@ -39,13 +39,13 @@ Ctrl+F로 검색하실 수 있습니다.<br><br>
 |![](/characters/Valentine_Shizuru.png)|발즈루<br>발렌타인시즈루|발||
 |![](/characters/Valentine_Eriko.png)|발리코<br>발렌타인에리코|방|발|
 |![](/characters/Saren.png)|사렌|사||
-|![](/characters/Summer_Makoto.png)|수코토<br>수영복마코토|슠||
+|![](/characters/Summer_Makoto.png)|수코토<br>수영복마코토|슠|숨|
 |![](/characters/Summer_Maho.png)|수마호<br>수영복마호|숳||
 |![](/characters/Summer_Mifuyu.png)|수후유<br>수영복미후유|숨||
 |![](/characters/Summer_Saren.png)|수사렌<br>수영복사렌|술||
 |![](/characters/Summer_Suzuna.png)|수즈나<br>수영복스즈나|순||
 |![](/characters/Summer_Suzume.png)|수즈메<br>수영복스즈메|숮||
-|![](/characters/Summer_Io.png)|수이오<br>수영복이오|슁||
+|![](/characters/Summer_Io.png)|수이오<br>수영복이오|슁|숭|
 |![](/characters/Summer_Kaori.png)|수오리<br>수영복카오리|숭||
 |![](/characters/Summer_Kyaru.png)|수캬루<br>수영복캬루|숰||
 |![](/characters/Summer_Kokkoro.png)|수코로<br>수영복콧코로|숫||
@@ -57,7 +57,7 @@ Ctrl+F로 검색하실 수 있습니다.<br><br>
 |![](/characters/Shiori.png)|시오리|싱|시|
 |![](/characters/Shizuru.png)|시즈루|시||
 |![](/characters/Arisa.png)|아리사|알|아|
-|![](/characters/Ayane.png)|아야네|야||
+|![](/characters/Ayane.png)|아야네|야|아|
 |![](/characters/Aoi.png)|아오이|앙|아|
 |![](/characters/Ayumi.png)|아유미|암|아|
 |![](/characters/Akari.png)|아카리|아||
