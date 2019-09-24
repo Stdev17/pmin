@@ -1,6 +1,6 @@
 # 프민정음
 
-최근수정: 2019. 9. 25.<br>
+최근수정: 2019. 9. 24.<br>
 프리코네 이리야갤 캐릭터 한글 네이밍 시스템<br>
 Ctrl+F로 검색하실 수 있습니다.<br><br>
 이리야 갤러리 바로가기: [링크](https://gall.dcinside.com/mgallery/board/lists?id=iriya1)<br>
@@ -98,7 +98,7 @@ Ctrl+F로 검색하실 수 있습니다.<br><br>
 |![](/characters/Halloween_Shinobu.png)|할노부<br>할로윈시노부|핣||
 |![](/characters/Placeholder.png)|할미미<br>할로윈미미|함||
 |![](/characters/Halloween_Misaki.png)|할사키<br>할로윈미사키|핤||
-|![](/characters/Placeholder.png)|할소기|핫||
-|![](/characters/Placeholder.png)|할쿄카|핰||
+|![](/characters/Placeholder.png)|할소기<br>할로윈미소기|핫||
+|![](/characters/Placeholder.png)|할쿄카<br>할로윈쿄우카|핰||
 |![](/characters/Halloween_Miyako.png)|할푸딩<br>할로윈푸딩<br>할로윈미야코|핦||
 |![](/characters/Hiyori.png)|히요리|히||
